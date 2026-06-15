@@ -1,0 +1,19 @@
+<svg width="400" height="110" viewBox="0 0 400 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="110" rx="12" fill="#1F2937"/>
+
+  <!-- House Icon -->
+  <g transform="translate(20,20)">
+    <path d="M40 10L75 38V80C75 84 72 87 68 87H12C8 87 5 84 5 80V38L40 10Z" 
+          fill="white"/>
+    <rect x="32" y="55" width="16" height="32" rx="3" fill="#1F2937"/>
+  </g>
+
+  <!-- Text -->
+  <text x="115" y="68"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42"
+        font-weight="700"
+        fill="white">
+    HotelStay
+  </text>
+</svg>
