@@ -30,3 +30,4 @@ const validateForm = () => {
 
   return Object.keys(newErrors).length === 0
 }
+
