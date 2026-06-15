@@ -24,3 +24,5 @@ portfolio-reference.txt
 *.njsproj
 *.sln
 *.sw?
+
+.env
